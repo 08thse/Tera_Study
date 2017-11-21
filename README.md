@@ -41,3 +41,6 @@ mvn archetype:generate -B^
  -Dversion=1.0.0-SNAPSHOT
 ```
 * Eclipse へ作成されたフォルダをインポート
+* web のプロジェクトを Tomcat で実行して・・・動いた！
+
+## 2.
