@@ -28,7 +28,7 @@ https://github.com/08thse/Tera_Study
 * http://terasolunaorg.github.io/guideline/
 
 ## 1. とりあえず動かしてみる
-###テンプレートからひな形を作成
+### テンプレートからひな形を作成
 * chocolatey から maven をインストールした
 * コマンドプロンプトにて下記の通りコマンドを実行
 ```
