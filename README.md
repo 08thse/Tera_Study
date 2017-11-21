@@ -10,7 +10,7 @@ TERASOLUNA の勉強用にリポジトリを作ってみました
 ## 環境
 ### 開発用
 * Windows 10
-* Eclipse neon.1
+* Eclipse neon.3
 * Tomcat 8.5
 * Postgres 9.5
 * Oracle JDK 8u151
@@ -36,7 +36,8 @@ mvn archetype:generate -B^
  -DarchetypeGroupId=org.terasoluna.gfw.blank^
  -DarchetypeArtifactId=terasoluna-gfw-multi-web-blank-mybatis3-archetype^
  -DarchetypeVersion=5.3.1.RELEASE^
- -DgroupId=local.08thse.comment^
+ -DgroupId=local._08thse.comment^
  -DartifactId=comment^
  -Dversion=1.0.0-SNAPSHOT
 ```
+* Eclipse へ作成されたフォルダをインポート
